@@ -1,0 +1,2 @@
+debo manejar el localStorage para que los botones se queden en rojo si ya tengo un componente agregado
+el boton eliminar de la ventana modal
